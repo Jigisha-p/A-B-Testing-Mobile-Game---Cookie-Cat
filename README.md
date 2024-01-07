@@ -1,5 +1,6 @@
 # A/B Testing Mobile Games - Cookie Cats
 
+<Img src="Images/1.jpeg">
 ## Overview
 
 Cookie Cats is a popular mobile puzzle game developed by Tactile Entertainment, known for its engaging "connect three"-style gameplay. The game features gates that players encounter as they progress through levels, requiring either waiting or in-app purchases to proceed. These gates not only drive in-app purchases but also aim to enhance player enjoyment and prolong engagement by providing enforced breaks.
@@ -32,5 +33,3 @@ The primary goal is to assess whether the change in gate placement (from level 3
 2. **A/B Test Analysis:** Conduct statistical tests to compare retention rates between the gate_30 and gate_40 groups.
 3. **Visualization:** Create visualizations to illustrate the findings and patterns within the data.
 4. **Conclusion:** Summarize the results, draw conclusions about the impact of gate placement on player retention, and offer recommendations for future game development decisions.
-
-
